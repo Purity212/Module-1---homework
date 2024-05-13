@@ -12,13 +12,6 @@ students.sort()
 students = tuple(students)
 
 dictionary = {}
-
-dictionary.update(students[0])
-print(dictionary)
-
-
-
-
 #вспомогательный индекс, сопоставляю упорядоченные имена учеников с их средним баллом
 grades_index = 0
 for student in students:
