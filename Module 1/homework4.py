@@ -14,3 +14,6 @@ mutable_var = [0.1, "лист", True, 3, [1, 2]]
 print("Список:", mutable_var)
 mutable_var = [5, 3.6, False]
 print("Измененный список:", mutable_var)
+
+
+
