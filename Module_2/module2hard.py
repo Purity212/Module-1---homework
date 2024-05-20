@@ -9,7 +9,7 @@ def find_password(num):
         print(*char, end=' ')
     print()
 
-
+#проверяет функцию для всех чисел из задания
 for i in range(3,21):
     find_password(i)
 
