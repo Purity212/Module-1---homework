@@ -15,6 +15,6 @@ def find_password(num):
 
 #проверяет функцию для всех чисел из задания
 for i in range(3,21):
-   print(*find_password(i))
+   print(*find_password(i), sep='')
    print()
 
